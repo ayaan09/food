@@ -1,0 +1,13 @@
+
+.logo-on-home{
+  position: relative;
+  margin-left: 550px;
+  margin-top: 200px;
+}
+.background-home{
+  background-size: 1600px;
+  height: 1000px;
+  /* min-height: 60vh; */
+  /* max-width: 70vh; */
+  background-image: url('food-background.jpg');
+}
